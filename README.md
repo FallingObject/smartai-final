@@ -20,5 +20,5 @@ A curated collection of final project deliverables for the **SMART AI** project 
 
 ### 4. Emy
 - **Author:** Yonathan
-- **Link:** [View Repository](https://github.com/FallingObject/emy)
+- **Link:** [View Repository](https://github.com/FallingObject/emy/blob/research-runtime/notebooks/emy.ipynb)
 
